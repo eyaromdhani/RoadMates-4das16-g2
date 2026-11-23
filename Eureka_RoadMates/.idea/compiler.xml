@@ -6,14 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Avis" />
         <module name="Trajets" />
-        <module name="eureka-roadmates" />
         <module name="Reservation" />
+        <module name="Paiement" />
+        <module name="Fidelite" />
+        <module name="eureka-roadmates" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Avis" options="-parameters" />
+      <module name="Fidelite" options="-parameters" />
+      <module name="Paiement" options="-parameters" />
       <module name="Reservation" options="-parameters" />
       <module name="Trajets" options="-parameters" />
       <module name="eureka-roadmates" options="-parameters" />
