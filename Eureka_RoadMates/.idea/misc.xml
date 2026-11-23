@@ -7,6 +7,7 @@
       <list>
         <option value="$PROJECT_DIR$/Eureka_RoadMates/pom.xml" />
         <option value="$PROJECT_DIR$/Trajets/pom.xml" />
+        <option value="$PROJECT_DIR$/Reservation/pom.xml" />
       </list>
     </option>
   </component>
