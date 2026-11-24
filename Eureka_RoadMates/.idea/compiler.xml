@@ -11,6 +11,7 @@
         <module name="Reservation" />
         <module name="Paiement" />
         <module name="Fidelite" />
+        <module name="Incidents" />
         <module name="eureka-roadmates" />
       </profile>
     </annotationProcessing>
@@ -19,6 +20,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Avis" options="-parameters" />
       <module name="Fidelite" options="-parameters" />
+      <module name="Incidents" options="-parameters" />
       <module name="Paiement" options="-parameters" />
       <module name="Reservation" options="-parameters" />
       <module name="Trajets" options="-parameters" />
