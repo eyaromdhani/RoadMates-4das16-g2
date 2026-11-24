@@ -4,7 +4,7 @@ Architecture Web Distribuée – Atelier Eureka & Actuator
 Année universitaire : 2026–2027
 
 
-## 👥 Équipe :
+# 👥 Équipe :
 
 Eya Allah Romdhani       --> Recherche & Réservation
 
@@ -20,7 +20,7 @@ Fedi Mouelhi             --> Incidents & Accidents
 
 Eya Allah Romdhani       --> Notification & Messagerie (microservice partagé)
 
-⚙️ Prérequis
+# ⚙️ Prérequis
 
 JDK 17 ou supérieur
 
@@ -38,7 +38,7 @@ Spring Boot 3.5.7
 
 Spring Cloud 2025.0.0
 
-🚀 Lancer le projet
+# 🚀 Lancer le projet
 
 Ordre de démarrage
 
@@ -63,12 +63,12 @@ http://localhost:8761
 ![CRUD_MS_Reservation](images/CRUD_MS_Reservation.png)
 
 
-📁 Structure du dépôt
+# 📁 Structure du dépôt
 Covoiturage-web/
 ├── BackEnd/
 ├── FrontEnd/
 ├── Documentation/
-├── images/                 ← captures d'écran 
+├── images/                  ← captures d'écran
 └── Eureka_RoadMates/
     ├── src/                ← serveur Eureka
     ├── pom.xml
@@ -79,5 +79,4 @@ Covoiturage-web/
     ├── Avis/
     ├── Incidents/
     └── Notification/
-
 
