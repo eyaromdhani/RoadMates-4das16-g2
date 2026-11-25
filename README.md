@@ -14,9 +14,9 @@ Mohamed Aziz Bouslama    --> Avis & Réputation
 
 Rayen Samoud             --> Fidélité & Récompenses
 
-Mohamed Hedi Mehdoui     --> Paiement
+Mohamed Hedi Mehdoui     --> Incidents & Accidents
 
-Fedi Mouelhi             --> Incidents & Accidents
+Fedi Mouelhi             --> Paiement
 
 Eya Allah Romdhani       --> Notification & Messagerie (microservice partagé)
 
