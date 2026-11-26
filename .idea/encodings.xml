@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Eureka_RoadMates/Avis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka_RoadMates/Eureka_RoadMates/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka_RoadMates/Fidelite/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka_RoadMates/Incidents/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka_RoadMates/Paiement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka_RoadMates/Reservation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Eureka_RoadMates/Trajets/src/main/java" charset="UTF-8" />
+  </component>
+</project>

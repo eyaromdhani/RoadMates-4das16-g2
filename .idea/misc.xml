@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="KubernetesApiProvider"><![CDATA[{}]]></component>
-  <component name="ProjectRootManager">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Eureka_RoadMates/Incidents/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka_RoadMates/Avis/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka_RoadMates/Fidelite/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka_RoadMates/Reservation/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka_RoadMates/Trajets/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka_RoadMates/Eureka_RoadMates/pom.xml" />
+        <option value="$PROJECT_DIR$/Eureka_RoadMates/Paiement/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="temurin-17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
