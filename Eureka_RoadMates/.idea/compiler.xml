@@ -13,6 +13,7 @@
         <module name="Paiement" />
         <module name="Fidelite" />
         <module name="Incidents" />
+        <module name="Notifications" />
         <module name="eureka-roadmates" />
       </profile>
     </annotationProcessing>
@@ -22,6 +23,7 @@
       <module name="Avis" options="-parameters" />
       <module name="Fidelite" options="-parameters" />
       <module name="Incidents" options="-parameters" />
+      <module name="Notifications" options="-parameters" />
       <module name="Paiement" options="-parameters" />
       <module name="Reservation" options="-parameters" />
       <module name="Trajets" options="-parameters" />
