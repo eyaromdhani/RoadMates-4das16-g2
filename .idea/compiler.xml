@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Avis" target="17" />
+      <module name="eureka-roadmates" target="17" />
+      <module name="Fidelite" target="17" />
+      <module name="Incidents" target="17" />
+      <module name="Paiement" target="17" />
+      <module name="Reservation" target="17" />
+      <module name="Trajets" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
