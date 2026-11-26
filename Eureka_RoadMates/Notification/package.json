@@ -1,0 +1,14 @@
+{
+  "name": "notification-ms7",
+  "version": "1.0.0",
+  "description": "MS7 - Notification & Messagerie (Node.js / Express / MongoDB)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0"
+  }
+}
